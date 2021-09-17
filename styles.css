@@ -1,0 +1,24 @@
+body {
+  background-color: turquoise;
+  padding: 0%;
+}
+h1 {
+  text-align: center;
+}
+.food-img-container {
+  text-align: center;
+  padding: 0%;
+}
+.food-img {
+  width: 400px;
+  height: auto;
+}
+.food-details {
+  background-color: teal;
+  color: rgb(146, 5, 5);
+  width: fit-content;
+}
+.detail-title {
+  text-align: center;
+  color: brown;
+}
